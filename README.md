@@ -11,6 +11,7 @@ Identify key features (e.g., order ID, customer information, product details). A
 
 Overall Sales Performance
 What are the overall sales trends over time (daily, weekly, or monthly)?
+
 How do the total sales figures vary across different periods (e.g., month-to-month, year-to-year)?
 
 Customer Insights
